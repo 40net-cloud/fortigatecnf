@@ -3,7 +3,7 @@
 ## Deploy the environment
 Inside the cloned repo:
 ```
-cd ./fortigate-cnf-sse-workshop/terraform-single-vpc
+cd ./fortigatecnf/terraform-single-vpc
 ```
 ```
 terraform init
