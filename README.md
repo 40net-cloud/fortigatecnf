@@ -4,4 +4,4 @@ FortiGate Cloud Native Firewall (FortiGate CNF) as a Service protects your AWS w
 Intresting links:
 - [https://fortigatecnf.com](https://fortigatecnf.com)
 - [https://docs.fortinet.com/product/fortigate-cnf](https://docs.fortinet.com/product/fortigate-cnf)
-- [Demo lab](./demo-lab-setup)
+- [Demo lab setup instructions](./demo-lab-setup)
