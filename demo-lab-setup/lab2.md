@@ -3,7 +3,7 @@
 ## Deploy the environment
 Inside the cloned repo:
 ```
-cd ./fortigate-cnf-sse-workshop/terraform-tgw
+cd ./fortigatecnf/terraform-tgw
 ```
 ```
 terraform init
