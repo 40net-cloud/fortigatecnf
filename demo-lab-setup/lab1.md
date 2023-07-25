@@ -1,5 +1,6 @@
 # LAB 1: intra-subnet single vpc use case
 <img src=".\images\management-access.png">
+
 ## Deploy the environment
 Inside the cloned repo:
 ```
