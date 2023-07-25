@@ -25,7 +25,7 @@ Goto `https://aws.amazon.com/marketplace/pp?sku=47xbqns9xujfkkjt189a13aqe` and s
 ### Clone the LAB repo 
 Clone following repo in `/environment` in your Cloud9 env
 ```
-git clone [https://github.com/40net-cloud/fortigate-cnf-sse-workshop.git](https://github.com/40net-cloud/fortigatecnf.git)
+git clone [https://github.com/40net-cloud/fortigate-cnf-sse-workshop.git](https://github.com/40net-cloud/fortigatecnf.git)](https://github.com/40net-cloud/fortigatecnf.git)
 ```
 
 ## LAB 1: Deploy a fortigatecnf playground for intra-subnet / single vpc
